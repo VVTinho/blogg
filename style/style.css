@@ -1,14 +1,14 @@
 /* this css is used on musikbloggen */
 /*
-#CDCEC9 (nästan vitt) bakgrund
+#CDCEC9 (nï¿½stan vitt) bakgrund
 #000000 (svart)
-#57828B (ljusblått) wrapper
-#384B51 (mörkblått) on mouse over
+#57828B (ljusblï¿½tt) wrapper
+#384B51 (mï¿½rkblï¿½tt) on mouse over
 */
 
 body {
 	/*background-color: #fff; */
-	background-color: #384B51;
+	background-color: #4b5138;
 
 	margin: 0;
 	padding: 0;
@@ -42,9 +42,9 @@ body {
 	background: #57828B;
 	border-bottom: 0px solid #fff; 
 	/*height: 200px;*/
-	line-height: 100px; /* radavstånd, texten hamnar i rätt höjd */ 
-	text-align: center; /* för att centrera rubriken */
-	overflow: auto; /* (omsluta) för att allt ska få plats */
+	line-height: 100px; /* radavstï¿½nd, texten hamnar i rï¿½tt hï¿½jd */ 
+	text-align: center; /* fï¿½r att centrera rubriken */
+	overflow: auto; /* (omsluta) fï¿½r att allt ska fï¿½ plats */
 }
 #header h1 {
 	margin: 0;
@@ -62,10 +62,10 @@ body {
 #header{
 	width: 960px;
 	margin-bottom: 0px;
-	line-height: 60px; /* radavstånd, texten hamnar i rätt höjd */ 
-	text-align: center; /* för att centrera rubriken */
-	overflow: auto; /* (omsluta) för att allt ska få plats */
-	background: #fff; /*bakgrundsfärgen i menyn */
+	line-height: 60px; /* radavstï¿½nd, texten hamnar i rï¿½tt hï¿½jd */ 
+	text-align: center; /* fï¿½r att centrera rubriken */
+	overflow: auto; /* (omsluta) fï¿½r att allt ska fï¿½ plats */
+	background: #fff; /*bakgrundsfï¿½rgen i menyn */
 
 }
 #header h1{
